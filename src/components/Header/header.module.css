@@ -14,6 +14,7 @@
   width: 100%;
   max-width: 736px;
   display: flex;
+  /* flex-direction: column; */
   gap: 8px;
   padding: 0 1rem;
 }
@@ -48,5 +49,6 @@
 }
 
 .newAssignmentForm button:disabled {
-  background: red;
+  background: lightgray;
+  cursor: default;
 }

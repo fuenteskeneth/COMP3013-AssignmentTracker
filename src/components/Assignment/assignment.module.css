@@ -47,3 +47,19 @@ p.textCompleted {
   border: none;
   color: #808080;
 }
+
+.dateBubble {
+  background-color: #606060;
+  font-weight: bold;
+  border-radius: 8px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.dateBubbleDue {
+  background-color: #ff0000;
+  font-weight: bold;
+  border-radius: 8px;
+  margin: 5px;
+  padding: 5px;
+}
